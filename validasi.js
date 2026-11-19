@@ -1,4 +1,3 @@
-
 const form = document.getElementById("contactForm");
 const hasil = document.getElementById("hasil");
 const tombol = document.getElementById("btnKirim");
